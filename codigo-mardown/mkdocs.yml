@@ -1,0 +1,18 @@
+site_name: Blog de jesus
+site_name: Blog de jesus
+site_author: jesus
+
+nav:
+    - inicio: index.md
+    - Practica 11: about.md
+    - Practica 15: practica15.md
+
+theme:
+  name: 'material'
+  lenguage: 'es'
+  palette:
+    primary: 'red'
+    accent: 'yellow'
+  front:
+    text: 'Robot'
+    code: 'Roboto Mono'
