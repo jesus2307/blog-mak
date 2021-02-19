@@ -6,7 +6,7 @@ En esta práctica tendremos que realizar la implantación de un sitio WordPress 
 #### A continuación se describen muy brevemente algunas de las tareas que tendrá que realizar.
 
 #### Crear una máquina virtual Amazon EC2.
-![imagen](https://raw.githubusercontent.com/jesus2307/blog-mak/main/codigo-mardown/imagenes/Captura4.png"imagen")
+![imagen](https://raw.githubusercontent.com/jesus2307/blog-mak/main/codigo-mardown/docs/image/Captura4.png "imagen")
 
 #### Instalar y configurar Docker y Docker compose en la máquina virtual.
 
