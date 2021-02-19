@@ -15,7 +15,7 @@ En esta práctica tendremos que realizar la implantación de un sitio WordPress 
 
 Busque cuál es la dirección IP pública de su instancia y compruebe que puede acceder a los servicios de 
 + WordPress
-![imagen](https://raw.githubusercontent.com/jesus2307/blog-mak/main/codigo-mardown/docs/image/Captura2.png "imagen")
+![imagen](https://raw.githubusercontent.com/jesus2307/blog-mak/main/codigo-mardown/imagenes/Captura2.png "imagen")
 + phpMyAdmin
 ![imagen](https://raw.githubusercontent.com/jesus2307/blog-mak/main/codigo-mardown/docs/image/Captura3.png "imagen")
 
